@@ -1,6 +1,7 @@
 ### Hello! Thanks for checking out my projects 👋
 
-#### Learn more about me at https://andreyrisukhin.github.io/.
+#### Learn more about me at https://andrey.risukh.in/.
+(also features dithering, music theory, and kata)
 
 #### 🐝 Save the Pollinators!
 <!--
